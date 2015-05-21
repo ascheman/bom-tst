@@ -8,8 +8,8 @@
     <name>Bill of Materials Test</name>
 
     <scm>
-        <connection>git@github.com:ascheman/bom-tst.git</connection>
-        <developerConnection>git@github.com:ascheman/bom-tst.git</developerConnection>
+        <connection>scm:git:git@github.com:ascheman/bom-tst.git</connection>
+        <developerConnection>scm:git:git@github.com:ascheman/bom-tst.git</developerConnection>
     </scm>
 
     <distributionManagement>
