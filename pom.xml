@@ -2,14 +2,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.aschemann.maven.tst</groupId>
     <artifactId>bomtst</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Bill of Materials Test</name>
 
     <scm>
         <connection>scm:git:git@github.com:ascheman/bom-tst.git</connection>
         <developerConnection>scm:git:git@github.com:ascheman/bom-tst.git</developerConnection>
-        <tag>bomtst-0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
